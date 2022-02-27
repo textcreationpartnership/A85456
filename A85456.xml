@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of Colonell Goring to the House of Commons, together with Mr Henry Piercies letter, to the Earle of Northumberland. And presented to the House of Commons the 16 of June, 1641</title>
+            <author>Goring, George Goring, Baron, 1608-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85456</idno>
+            <idno type="STC">Wing G1303B</idno>
+            <idno type="STC">ESTC R177492</idno>
+            <idno type="EEBO-CITATION">99896633</idno>
+            <idno type="PROQUEST">99896633</idno>
+            <idno type="VID">170762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2429:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of Colonell Goring to the House of Commons, together with Mr Henry Piercies letter, to the Earle of Northumberland. And presented to the House of Commons the 16 of June, 1641</title>
+                  <author>Goring, George Goring, Baron, 1608-1657.</author>
+                  <author>Percy, Henry, Baron Percy of Alnwick, d. 1659.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Identified as Wing G1303B, reel 2429, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+                  <note>Identified by ESTC as Wing (CD-ROM, 1996) G1303BA.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170762:1" rendition="simple:additions"/>
+            <p>THE
+DECLARATION
+OF
+Colonell Goring.
+To the houſe of COMMONS,
+Together with
+M<hi rend="sup">r</hi> Henry Piercies
+LETTER, to the EARLE of
+<hi>Northumberland.
+And Preſented to the Houſe of</hi>
+COMMONS the 16 of June,
+1641.</p>
+            <p>Printed 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:170762:2"/>
+            <pb n="1" facs="tcp:170762:2"/>
+            <head>The Declaration of Colonel GORING, to
+the houſe of COMMONS.
+Together with Maſter HENRY PIERCIES
+Letter to the Earle of Northumberland,
+preſented to the Parlament the
+16 of Iune 1641.</head>
+            <p>WHat with my owne innocency, and the violence I hear
+is againſt me, I find my ſelfe much diſtracted, I will not
+aske your Counſel, becauſe it may bring prejudice upon
+you, but I will with all faithfulneſſe and truth tell you what my
+part hath bin, that at leaſt it may be cleared by you, whatſoever be<g ref="char:EOLhyphen"/>comes
+of me.</p>
+            <p>When there was 50000 <hi>li.</hi> deſigned by the Parliament for the
+Engliſh Army, there was as I take it, a ſudden demand by the <hi>Scots</hi>
+at the ſame time of 25000 <hi>li.</hi> of which there was 15000 <hi>li.</hi> ready,
+this they preſſed with much neceſſity, as the <hi>Parliament,</hi> after an
+order made, did thinke it fit for them to deduct 10000 pound out
+of the 50000 <hi>li.</hi> formerly granted, upon which, the ſouldiers in
+our hoſt were much ſcandalized, amongſt which I was one, and ſit<g ref="char:EOLhyphen"/>ting
+by <hi>Wilmot,</hi> and <hi>Aſhburnham, Wilmot</hi> ſtood up and told them, if
+that of the Scots would procure money, hee doubted not but the
+Officers of the Engliſh Army might eaſily doe the like, but the firſt
+order was reverſed, notwithſtanding, and 10000 <hi>li.</hi> given to the
+Scots, this was the cauſe of many diſcourſes, of diſlike amongſt us,
+and came to this purpoſe, that they were dis-obliged by the Par<g ref="char:EOLhyphen"/>liament,
+and not by the King, this being ſaid often to one another,
+we did reſolve that <hi>Wilmot, Aſhburnham; Pollard, Oneale,</hi> and my ſelf,
+<pb n="2" facs="tcp:170762:3"/>
+to make ſome expreſſions of ſerving the King, in all things he wold
+command us, that were honourable for him and us, being likewiſe
+agreeing unto the fundamentall Lawes of the Kingdome, that ſo far
+we would live and dye with him, this agreed upon with us, not ha<g ref="char:EOLhyphen"/>ving
+any communication with others, that I am coupled now with<g ref="char:EOLhyphen"/>all,
+and further by their joynt conſent, I was to tel his Majeſty thus
+much from them, but withall I was to order the matter ſo, as the
+King might apprehend this, as a great ſervice done vnto him, at
+this time, when his affaires were in ſo ill a condition, and they
+were moſt confident, <hi>that they would engage the whole Army thus far,
+but further they would undertake nothing, becauſe they would neither infringe
+the liberties of the ſubiects, or deſtroy the Lawes,</hi> to which I and every
+one conſented, and having their ſence, I drew the heads up in a pa<g ref="char:EOLhyphen"/>per,
+to the which they all approved, when <hi>I</hi> read it, and then wee
+did by an oath promiſe one an other to be conſtant and ſecret in all
+this, and did all of us take that oath together, then I ſaid, Well
+Sirs, I muſt now be informed what your particular deſires are, that
+ſo I may be the better able to ſerve you, which they were pleaſed to
+doe, and ſo I did very faithfully ſerve them therein, as far as I could:
+this is the truth, and all the truth upon my ſoule. In particular diſ<g ref="char:EOLhyphen"/>courſes,
+after that, <hi>we did fall upon the petitioning to the King and Parli<g ref="char:EOLhyphen"/>ament
+for monies, there being ſo great arreares due to us, and ſo much delayes
+made in the procuring of them, but that was never done.</hi>
+            </p>
+            <p>1. Concerning the Biſhops functions and votes.</p>
+            <p>2. The not diſbanding of the Iriſh Army, untill the Scots were disban<g ref="char:EOLhyphen"/>ded
+too.</p>
+            <p>3. The endeavouring to ſettle his Maieſties Revenue to that proportion it
+was formerly.</p>
+            <p>And it was reſolved by us all, if the King ſhould require our aſ<g ref="char:EOLhyphen"/>ſiſtance
+in thoſe things, that as far as we could we might contribute
+thereunto, without breaking the Lawes of the Kingdome. And in
+caſe the King ſhould be denyed thoſe things, being put to them, wee
+would not fly from him, al theſe perſons did act and concur in this
+as well as I, this being all imparted to the King by me from them,
+I perceived he had bin treated with by others, concerning ſome
+things of our Army, which not agreed with what was purpoſed
+<pb n="3" facs="tcp:170762:3"/>
+by me, but inclined a way more ſharpe, and high, not having limits either
+of honour or Law, <hi>I</hi> told the King he might be pleaſed to conſider with
+himſelfe what ſhould be done, which way it was fit for him to hear<g ref="char:EOLhyphen"/>ken
+unto, for us we were reſolved not to depart from our grounds, wee
+ſhould not be diſpleaſed, whoſoever they were, but the particular of the
+deſignes, or the perſons we deſired not to know, though it was no hard
+matter to gueſſe at them. In the end I beleev the danger of the one, the juſtice
+of the other made the King tell me he would leave all thoughts of other
+propoſitions but ours, as things not practiceable, but deſired, notwith<g ref="char:EOLhyphen"/>ſtanding
+that <hi>Goring</hi> and <hi>Iermin,</hi> who were acquainted with the other pro<g ref="char:EOLhyphen"/>ceedings
+ſhould be admitted amongſt us, <hi>I</hi> told him I, though the other
+Gentry would never conſent to it, but <hi>I</hi> would propoſe it, which I did,
+and we were all much againſt it; but the King did preſſe it ſo much, as at
+the laſt it was conſented unto, and <hi>Goring</hi> and <hi>Iermin</hi> came to my Chamber,
+there I was appointed to tell them after they had ſworne to ſecrecy, what
+we had propoſed, which <hi>I</hi> did, but before I goe into the debate of the
+way, I muſt tell you <hi>Iermin</hi> and <hi>Goring</hi> were very earneſt <hi>Suckling</hi> ſhould be
+admitted, which we did all decline, and was deſired by all our men to be
+reſolute in it, which I was, and gave many Reaſons: whereupon Maſter
+<hi>Goring</hi> made anſwer, he was enggaed with <hi>Suckling,</hi> his being imployed in the
+Army, but for his meeting with us, they were contented to paſſe it by.
+Then we tooke up againe the wayes which were propoſed, which tooke
+great debate, and theirs differed from ours in violence and height, which
+we all proteſted againſt, and parted, diſagreeing totally, yet remitted it
+to be ſpoken of by me and <hi>Iermin</hi> to the King, which we both did, and the
+King conſtant to his former Reſolutions told him, theſe wayes were all
+vaine and fooliſh, and would thinke of them no more, I omit one thing of
+Maſter <hi>Goring,</hi> he deſired to know how the chiefe Commanders were to be
+diſpoſed off, for if he had not a condition worthy of him, he would not go
+along with us, we made anſwer that no body thought of that, we intended
+if we were ſent downe to goe all in the ſame capacity we were in, he did
+not like that by no meanes, and that did worke ſo with Maſter <hi>Chidley,</hi> that
+there was a Letter ſent by ſome of the Co<g ref="char:cmbAbbrStroke">̄</g>manders to make him Lieutenant
+Generall, and when he had ordered this matter at <hi>London,</hi> and Maſter <hi>Chid<g ref="char:EOLhyphen"/>ley</hi>
+had his inſtructions, then did he goe to <hi>Portſmouth,</hi> pretending to be ab<g ref="char:EOLhyphen"/>ſent
+when this was a working, we all deſired my Lord of <hi>Eſſex</hi> and <hi>Holland,</hi>
+that if there were a Generall at <hi>Newcaſtle,</hi> they were pleaſed to give out a
+report that <hi>I</hi> ſhould be Generall of the Horſe, but I proteſt neither to the
+<pb n="4" facs="tcp:170762:4"/>
+King nor any elſe, did I ever ſo much as think of it, my Lord of <hi>Holland</hi> was
+made Generall, and ſo all things were layd aſide, and this is the truth and
+all the truth I knew of theſe proceedings, and this I will and doe proteſt
+unto you upon my faith, and <hi>Willmat, Aſhburnham,</hi> and <hi>Oneale,</hi> have at ſeve<g ref="char:EOLhyphen"/>rall
+times confeſſed and ſworne, I never ſaid any thing in the buſineſſe, they
+did not every one agree unto and would juſtifie: this Relation I ſent you
+rather to informe you of the truth of the matter, that you may the better
+know to doe me good, but I ſhould thinke my ſelfe very unhappy to be
+made a betrayer of any body: what concerned the Tower or any thing elſe.
+<hi>I</hi> never medled withall, nor never ſpake with <hi>Goring,</hi> but that night before
+them all, and I ſaid nothing but what was conſented unto by any party, <hi>I,</hi>
+never ſpake one word with <hi>Suckling, Carnarvan, Davenant,</hi> or any other crea<g ref="char:EOLhyphen"/>ture,
+me think, if my friends and kindred knew the truth and juſtice of
+the matter, it were no hard matter to ſerve me in ſome meaſure.</p>
+         </div>
+         <div type="declaration">
+            <head>Colonell Gorings Declaration on his Examinati<g ref="char:EOLhyphen"/>on,
+concerning the late Conſpiracie againſt the State.</head>
+            <p>HAving beene told there was an intention to unite the forces of our
+Army, and to put it into a poſture of being able, if not of purpoſe of
+being willing to interpoſe in the proceedings of Parliaments,</p>
+            <p>I hearkend to the propoſitions of ſolliciting a redreſſe, for the miſeries
+of the Souldiers being the firſt ſtep to this, in reſpect of the preſent neceſ<g ref="char:EOLhyphen"/>ſities
+of it, not any future conſequence of trouble to thoſe, that were to
+procure our reliefe.</p>
+            <p>But leſt the manner of asking this or the effects of it, being obtained,
+might be leſſe juſt, then the thing it ſelf which was deſired, &amp; I might be in<g ref="char:EOLhyphen"/>volved
+their crime that had, further ends, perhaps then meerly the redreſſe
+of our Armies grievances: I thought it not unſafe to take ſome witneſſe
+of mine integrity along with me, and ſpoke to a noble Lord the very ſame
+day when I aſſured him there were ſome Officers of the Army, that were
+leaſt thought on, that had greateſt zeale to the proceedings of this Houſe,
+&amp; I thought there would be an occaſion to let him know more of it: within
+few dayes after, this Maſter <hi>Iermin</hi> and I being admitted into a Conſulta<g ref="char:EOLhyphen"/>tion,
+where we were tyed to ſecrecy by an Oath, in the company of thoſe
+Gentlemen I have named in my Depoſitions, where their purpoſe was de<g ref="char:EOLhyphen"/>clared
+to us in ſome Propoſitions, which were to this effect.</p>
+            <pb n="5" facs="tcp:170762:4"/>
+            <p>1. First putting our Army into a posture to ſerve the King.</p>
+            <p>2. Secondly ſending a Declaration to the Parliament, containing that no Act of
+Parliament ſhould be made contrary to any former Act, which was expreſſed that Epiſ<g ref="char:EOLhyphen"/>copacie
+would be kept up as it is now.</p>
+            <p>3. Thirdly, and that the Kings Revenue ſhould be eſtabliſhed.</p>
+            <p>This I thought unlawfull for our undertakings, ſince I thought they in<g ref="char:EOLhyphen"/>tended
+to interpoſe the determinations of this Houſe, and it belongs
+to an Armie, to maintaine, not to contrive Acts of State.</p>
+            <p>I objected therefore againſt the propoſitions, and preſſed more the fol<g ref="char:EOLhyphen"/>lies
+and difficulties, then the illegalities of them, not onely becauſe I
+thought reaſon a greater Argument with them then Conſcience, but be<g ref="char:EOLhyphen"/>cauſe
+I am ſo unhappy of the two, 2 be thought a worſe <hi>Common-wealth's</hi> man,
+then a Souldier, and in that quality could procure moſt credit to my
+words, and I endeavoured to ſhew them that as the Deſigne would be im<g ref="char:EOLhyphen"/>pious,
+if their moſt deſperate Counſell had beene followed, ſo it would
+have beene the weakeſt that ever was undertaken, if it were admitted.</p>
+            <p>And whereas I am ſaid to have a part in this violent Counſell; till the
+day before this meeting, I never heard word of it, &amp; knew not when <hi>I</hi> came
+to the Roome, whether theirs were not the ſame with the other, this they
+may witneſſe for me, and that I declared, that <hi>I</hi> would have to doe with
+neither, and that <hi>I</hi> expreſſed a contempt in our meeting in that manner,
+but I relie upon the Teſtimony of ſome noble Lords of his Majeſties Coun<g ref="char:EOLhyphen"/>ſell,
+and others, how I proteſted againſt all thoſe violent Counſells, even
+in the birth of them, and with what pitty <hi>I</hi> looked towards the perſon of
+his Majeſty, and the whole Kingdome in this buſineſſe.</p>
+            <p>I appeale alſo to them, and to ſome members of this Houſe, what my
+carriage was toward theſe Gentlemen, that were embarked in theſe un<g ref="char:EOLhyphen"/>dertakings,
+intending rather to prevent a miſchiefe, by abandoning their
+Counſells, then to ruine them, by diſcloſing them: but miſtake me not, for
+had <hi>I</hi> knowne of any former plot proceeded in, that would endanger or
+diſturbe the quiet of his Majeſty, or the peace of this Kingdome, <hi>I</hi> ſhould
+not have beene contented with declaring mine owne innocencie, nor have
+ſtayd till the command of this Houſe, or an Oath extorted from me, a diſ<g ref="char:EOLhyphen"/>covery:
+but by a haſty open Declaration, have broken the bonds of amity,
+and friendſhip, and all former tyes, to preſerve the duty of a Subject, and
+as freely expoſed the knowledge of all to the view of the world, as <hi>I</hi> have
+beene tender in publiſhing theſe purpoſes, even to my neareſt friends,
+which had weight enough to cruſh nothing but the undertakers of it, and
+certainely if they had ſtayd where <hi>I</hi> left them, there was no concluſion at
+all. It appeares there were two ſeverall intentions digeſted by others, be<g ref="char:EOLhyphen"/>fore
+they were Communicated to me; And <hi>I</hi> knew not whether my hark<g ref="char:EOLhyphen"/>ning
+to them were a fault, but <hi>I</hi> am ſure it was no misfortune.</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:170762:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
